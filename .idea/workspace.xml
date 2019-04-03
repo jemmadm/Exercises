@@ -2,42 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/Exercise1/Exercise1SayingHello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/Exercise1/Exercise1SayingHelloTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/Exercise2/Exercise2CountingCharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/Exercise3/Exercise3PrintingQuotes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/Exercise4MadLib.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/Exercise5SimpleMath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/Exercise6RetirementCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/META-INF/Exercises.main.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/exercise23/CarIssues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/exercise23/Question.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/exercise26/CreditCardCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/META-INF/Exercises.main.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/exercise23/CarIssuesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/exercise26/CreditCardCalculatorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise1/Exercise1SayingHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Exercise1SayingHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise1/Exercise1SayingHelloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise1/Exercise1SayingHelloTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/Exercise2CountingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise2/Exercise2CountingCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise3/Exercise3PrintingQuotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise3/Exercise3PrintingQuotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise4/Exercise4MadLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise4/Exercise4MadLib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise8/Exercise8PizzaParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise8/Exercise8PizzaParty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise8/Exercise8PizzaPartyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise8/Exercise8PizzaPartyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise9/Exercise9PaintCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise9/Exercise9PaintCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise9/Exercise9PaintCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise9/Exercise9PaintCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercise1/Exercise1SayingHelloTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercise7/Exercise7RectangleRoomAreaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercise8/Exercise8PizzaPartyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercise9/Exercise9PaintCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise5SimpleMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise5/Exercise5SimpleMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise6RetirementCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise6/Exercise6RetirementCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise7RectangleRoomArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise7/Exercise7RectangleRoomArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise7RectangleRoomAreaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise1/Exercise1SayingHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise1/Exercise1SayingHello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise1/Exercise1SayingHelloTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise2/Exercise2CountingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/Exercise2CountingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise3/Exercise3PrintingQuotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise3/Exercise3PrintingQuotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise4/Exercise4MadLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise4/Exercise4MadLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise8/Exercise8PizzaParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise8/Exercise8PizzaParty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise8/Exercise8PizzaPartyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise9/Exercise9PaintCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise9/Exercise9PaintCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercise9/Exercise9PaintCalculatorTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -99,20 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Exercise1/Exercise1SayingHello.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exercise9/Exercise9PaintCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/exercise8/Exercise8PizzaPartyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="640">
+              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,6 +141,11 @@
         <option value="$PROJECT_DIR$/src/test/java/exercise26/CreditCardCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise1/Exercise1SayingHello.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise1/Exercise1SayingHelloTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise7/Exercise7RectangleRoomAreaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise9/Exercise9PaintCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise8/Exercise8PizzaPartyTest.java" />
       </list>
     </option>
   </component>
@@ -167,7 +154,9 @@
     <option name="width" value="1440" />
     <option name="height" value="922" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -204,7 +193,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise1" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -225,7 +214,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise27" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +227,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554284361676" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554284814042" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -252,8 +241,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercise9" />
+      <recent name="exercise8" />
+      <recent name="exercise7" />
+      <recent name="exercise1" />
       <recent name="exercise27" />
-      <recent name="Exercise23" />
     </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.atcloud.io/jemma-millman/code-katas/tree/master/battleships" />
@@ -265,6 +257,9 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/exercise6" />
+      <recent name="$PROJECT_DIR$/src/main/java/exercise7" />
+      <recent name="$PROJECT_DIR$/src/main/java/exercise5" />
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
@@ -384,7 +379,7 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="10031000" />
+      <workItem from="1554212212704" duration="10548000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -400,7 +395,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554283590106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Exercises">
+      <created>1554284359859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554284359859</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Exercises">
+      <created>1554284401788</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554284401788</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -436,7 +445,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50866000" />
+    <option name="totallyTimeSpent" value="51383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -457,7 +466,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.2812887" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32961586" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -564,30 +573,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exercise8/Exercise8PizzaPartyTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exercise8/Exercise8PizzaParty.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exercise9/Exercise9PaintCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exercise9/Exercise9PaintCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise7RectangleRoomAreaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise7/Exercise7RectangleRoomAreaTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -673,6 +659,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise1/Exercise1SayingHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise1/Exercise1SayingHelloTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise1/Exercise1SayingHelloTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -683,6 +693,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise7/Exercise7RectangleRoomArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise7/Exercise7RectangleRoomAreaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise8/Exercise8PizzaPartyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="55" column="1" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise8/Exercise8PizzaParty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -690,10 +728,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exercise1/Exercise1SayingHello.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise9/Exercise9PaintCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="730">
+          <caret line="76" column="1" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="76" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise9/Exercise9PaintCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise9/Exercise9PaintCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise8/Exercise8PizzaPartyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

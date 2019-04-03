@@ -1,4 +1,4 @@
-package Exercise8;
+package exercise8;
 
 public class Exercise8PizzaParty {
 

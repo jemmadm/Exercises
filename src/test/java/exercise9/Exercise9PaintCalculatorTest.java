@@ -1,9 +1,9 @@
-package Exercise9;
+package exercise9;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import static org.assertj.core.api.Assertions.*;
+import static org.junit.Assert.*;
 
 public class Exercise9PaintCalculatorTest {
 
@@ -74,4 +74,6 @@ public class Exercise9PaintCalculatorTest {
     @Test
     public void roundRoom(){
     }
+}
+
 }

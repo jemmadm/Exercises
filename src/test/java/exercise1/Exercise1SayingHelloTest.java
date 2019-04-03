@@ -1,9 +1,11 @@
-package Exercise1;
+package exercise1;
 
+import org.junit.Test;
 
-import org.junit.jupiter.api.Test;
+import static org.junit.Assert.*;
 
 public class Exercise1SayingHelloTest {
+
     @Test
 
     public void doesItWork() {
@@ -14,3 +16,4 @@ public class Exercise1SayingHelloTest {
     }
 
 }
+

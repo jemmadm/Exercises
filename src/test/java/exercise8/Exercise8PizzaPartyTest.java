@@ -1,9 +1,9 @@
-package Exercise8;
+package exercise8;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import static org.assertj.core.api.Assertions.*;
+import static org.junit.Assert.*;
 
 public class Exercise8PizzaPartyTest {
 
@@ -49,8 +49,5 @@ public class Exercise8PizzaPartyTest {
         assertThat(exercise8PizzaParty.leftoversCalculator(7, 4, 3)).isEqualTo(5);
     }
 
-    @Test
-    public void noLeftovers() {
-        assertThat
 
 }

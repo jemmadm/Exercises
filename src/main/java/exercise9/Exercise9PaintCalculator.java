@@ -1,4 +1,4 @@
-package Exercise9;
+package exercise9;
 
 public class Exercise9PaintCalculator {
     private final static double CONVERSION_FACTOR = 0.002857142857143;
