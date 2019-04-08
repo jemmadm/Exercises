@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/exercise26/CreditCardCalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/exercise26/CreditCardCalculatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercise26/CreditCardCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise26/CreditCardCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -239,7 +233,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554726332664" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554728628227" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -392,7 +386,7 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="23449000" />
+      <workItem from="1554212212704" duration="23715000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -443,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554315207078</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added Exceptions to ValidatingInputs and additional tests">
+      <created>1554727337725</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554727337725</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -479,13 +480,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64284000" />
+    <option name="totallyTimeSpent" value="64550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -494,7 +494,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32961586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -560,7 +560,8 @@
     <MESSAGE value="add Exercises" />
     <MESSAGE value="edited folders structure" />
     <MESSAGE value="added exercise28" />
-    <option name="LAST_COMMIT_MESSAGE" value="added exercise28" />
+    <MESSAGE value="added Exceptions to ValidatingInputs and additional tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Exceptions to ValidatingInputs and additional tests" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
