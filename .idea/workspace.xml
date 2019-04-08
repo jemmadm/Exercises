@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -205,23 +199,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise27" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercise28" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise32" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -301,7 +279,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554735299783" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554735703908" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -453,7 +431,7 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="29042000" />
+      <workItem from="1554212212704" duration="29306000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -518,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554728646354</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="refactored exercise 28&#10;&#10;started exercise 32&#10;&#10;created folders for 30 &amp; 31">
+      <created>1554735379868</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554735379868</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -554,13 +539,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69877000" />
+    <option name="totallyTimeSpent" value="70141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -569,7 +553,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293944" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293944" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988183" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -637,7 +621,8 @@
     <MESSAGE value="added exercise28" />
     <MESSAGE value="added Exceptions to ValidatingInputs and additional tests" />
     <MESSAGE value="added exercise32 - Guess The Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="added exercise32 - Guess The Number" />
+    <MESSAGE value="refactored exercise 28&#10;&#10;started exercise 32&#10;&#10;created folders for 30 &amp; 31" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored exercise 28&#10;&#10;started exercise 32&#10;&#10;created folders for 30 &amp; 31" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
