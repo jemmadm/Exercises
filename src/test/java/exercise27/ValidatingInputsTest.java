@@ -9,105 +9,108 @@ public class ValidatingInputsTest {
     private ValidatingInputs validatingInputs = new ValidatingInputs();
 
     @Test
-    public void validFirstName() throws Exception {
-
+    public void validFirstName() {
         assertThat(validatingInputs.firstNameInput("Je")).isNotEmpty();
     }
 
-    @Test (expected = Exception.class)
-    public void invalidFirstName() throws Exception {
+    @Test(expected = IllegalArgumentException.class)
+    public void invalidFirstName() {
 
         assertThat(validatingInputs.firstNameInput("")).isNotEmpty();
     }
 
     @Test
     public void invalidFirstNameException() {
+
         assertThatThrownBy(() -> {
             validatingInputs.firstNameInput("");
-        }).isInstanceOf(Exception.class)
-                .hasMessageContaining("This is not a valid last name. Minimum 2 characters needed.");
+        }).isInstanceOf(IllegalArgumentException.class)
+                .hasMessageContaining("This is not a valid name. Minimum 2 characters needed.");
     }
 
     @Test
-    public void validLastName() throws Exception {
+    public void validLastName() {
 
         assertThat(validatingInputs.lastNameInput("Millman")).isNotEmpty();
     }
 
-    @Test(expected = Exception.class)
-    public void invalidLastName() throws Exception {
+    @Test(expected = IllegalArgumentException.class)
+    public void invalidLastName() {
 
         assertThat(validatingInputs.lastNameInput("").isEmpty());
     }
 
     @Test
     public void invalidLastNameException() {
+
         assertThatThrownBy(() -> {
             validatingInputs.lastNameInput("");
         }).isInstanceOf(Exception.class)
-                .hasMessageContaining("This is not a valid last name. Minimum 2 characters needed.");
+                .hasMessageContaining("This is not a valid name. Minimum 2 characters needed.");
     }
 
     @Test
-    public void emptyId() throws Exception {
+    public void emptyId() {
 
         assertThat(validatingInputs.employeeIdInput("")).isEmpty();
     }
 
     @Test
-    public void validIdSize() throws Exception {
+    public void validIdSize() {
 
         assertThat(validatingInputs.employeeIdInput("AA-1234")).hasSize(7);
     }
 
-    @Test(expected = Exception.class)
-    public void invalidIdSize() throws Exception {
+    @Test(expected = IllegalArgumentException.class)
+    public void invalidIdSize() {
 
         assertThat(validatingInputs.employeeIdInput("AA")).hasSize(7);
     }
 
     @Test
     public void invalidIdException() {
+
         assertThatThrownBy(() -> {
             validatingInputs.employeeIdInput("ddddd");
-        }).isInstanceOf(Exception.class)
+        }).isInstanceOf(IllegalArgumentException.class)
                 .hasMessageContaining("The ID needs to be in the format of 2 letters - 4 numbers.");
     }
 
     @Test
-    public void validIDPattern() throws Exception {
+    public void validIDPattern() {
 
         assertThat(validatingInputs.employeeIdInput("AA-1234")).matches("\\D\\D" + "-" + "\\d\\d\\d\\d");
     }
 
-    @Test(expected = Exception.class)
-    public void invalidIDPattern() throws Exception {
+    @Test(expected = IllegalArgumentException.class)
+    public void invalidIDPattern() {
 
         assertThat(validatingInputs.employeeIdInput("12-CCCC")).doesNotMatch("\\D\\D" + "-" + "\\d\\d\\d\\d");
     }
 
     @Test
-    public void validZip() throws Exception {
+    public void validZip() {
 
         assertThat(validatingInputs.zipInput("12345")).containsOnlyDigits();
     }
 
-    @Test(expected = Exception.class)
-    public void invalidZip() throws Exception {
+    @Test(expected = IllegalArgumentException.class)
+    public void invalidZip() {
 
         assertThat(validatingInputs.zipInput("999")).containsOnlyDigits();
     }
 
     @Test
     public void invalidZipException() {
+
         assertThatThrownBy(() -> {
             validatingInputs.zipInput("dddd");
-        }).isInstanceOf(Exception.class)
+        }).isInstanceOf(IllegalArgumentException.class)
                 .hasMessageContaining("The zipcode needs to be 5 numbers in length.");
     }
 
     @Test
-    public void validateInputFunction() throws Exception {
+    public void validateInputFunction() {
 
         assertThat(validatingInputs.validateInput("Jemma", "Millman", "JM-1389", "90210"))
                 .isEqualTo("Jemma Millman JM-1389 90210");

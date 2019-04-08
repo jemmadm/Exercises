@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -58,20 +64,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            <state relative-caret-position="271">
+              <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+              <folding>
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -122,10 +156,12 @@
         <option value="$PROJECT_DIR$/src/test/java/exercise26/CreditCardCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="792" />
@@ -175,6 +211,22 @@
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise28" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise32" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -191,6 +243,22 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercise27" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise28" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise32" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -233,7 +301,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554728628227" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554735299783" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -248,11 +316,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercise32" />
       <recent name="exercise28" />
       <recent name="exercise9" />
       <recent name="exercise8" />
       <recent name="exercise7" />
-      <recent name="exercise1" />
     </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.atcloud.io/jemma-millman/code-katas/tree/master/battleships" />
@@ -284,6 +352,69 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.ValidatingInputsTest">
+    <configuration name="GuessTheNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise32" />
+      <option name="MAIN_CLASS_NAME" value="exercise32.GuessTheNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessTheNumberTest.chooseDifficulty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise32" />
+      <option name="MAIN_CLASS_NAME" value="exercise32.GuessTheNumberTest" />
+      <option name="METHOD_NAME" value="chooseDifficulty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessTheNumberTest.chooseEasyDifficulty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise32" />
+      <option name="MAIN_CLASS_NAME" value="exercise32.GuessTheNumberTest" />
+      <option name="METHOD_NAME" value="chooseEasyDifficulty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessTheNumberTest.chooseNormalDifficulty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise32" />
+      <option name="MAIN_CLASS_NAME" value="exercise32.GuessTheNumberTest" />
+      <option name="METHOD_NAME" value="chooseNormalDifficulty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidatingInputsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercises.test" />
       <extension name="coverage">
@@ -299,77 +430,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidatingInputsTest.IdSizeSmall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise27" />
-      <option name="MAIN_CLASS_NAME" value="exercise27.ValidatingInputsTest" />
-      <option name="METHOD_NAME" value="IdSizeSmall" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidatingInputsTest.invalidFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise27" />
-      <option name="MAIN_CLASS_NAME" value="exercise27.ValidatingInputsTest" />
-      <option name="METHOD_NAME" value="invalidFirstName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidatingInputsTest.invalidIdSizeException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise27" />
-      <option name="MAIN_CLASS_NAME" value="exercise27.ValidatingInputsTest" />
-      <option name="METHOD_NAME" value="invalidIdSizeException" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidatingInputsTest.invalidLastNameException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise27" />
-      <option name="MAIN_CLASS_NAME" value="exercise27.ValidatingInputsTest" />
-      <option name="METHOD_NAME" value="invalidLastNameException" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ValidatingInputsTest" />
-        <item itemvalue="JUnit.ValidatingInputsTest.invalidIdSizeException" />
-        <item itemvalue="JUnit.ValidatingInputsTest.invalidLastNameException" />
-        <item itemvalue="JUnit.ValidatingInputsTest.invalidFirstName" />
-        <item itemvalue="JUnit.ValidatingInputsTest.IdSizeSmall" />
+        <item itemvalue="JUnit.GuessTheNumberTest.chooseEasyDifficulty" />
+        <item itemvalue="JUnit.GuessTheNumberTest" />
+        <item itemvalue="JUnit.GuessTheNumberTest.chooseNormalDifficulty" />
+        <item itemvalue="JUnit.GuessTheNumberTest.chooseDifficulty" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +453,7 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="23715000" />
+      <workItem from="1554212212704" duration="29042000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -444,47 +511,89 @@
       <option name="project" value="LOCAL" />
       <updated>1554727337725</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added exercise32 - Guess The Number">
+      <created>1554728646354</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554728646354</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ValidatingInputsTest - 2019.04.08 at 11h 19m 44s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="GuessTheNumberTest_chooseEasyDifficulty - 2019.04.08 at 15h 45m 21s.xml">
+      <configuration name="GuessTheNumberTest.chooseEasyDifficulty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.08 at 11h 24m 45s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="GuessTheNumberTest_chooseEasyDifficulty - 2019.04.08 at 15h 46m 16s.xml">
+      <configuration name="GuessTheNumberTest.chooseEasyDifficulty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.08 at 11h 27m 12s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="GuessTheNumberTest_chooseNormalDifficulty - 2019.04.08 at 15h 46m 34s.xml">
+      <configuration name="GuessTheNumberTest.chooseNormalDifficulty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.08 at 11h 29m 20s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="GuessTheNumberTest_chooseNormalDifficulty - 2019.04.08 at 15h 47m 21s.xml">
+      <configuration name="GuessTheNumberTest.chooseNormalDifficulty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.08 at 11h 30m 11s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="GuessTheNumberTest_chooseNormalDifficulty - 2019.04.08 at 15h 47m 35s.xml">
+      <configuration name="GuessTheNumberTest.chooseNormalDifficulty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.08 at 11h 36m 05s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="GuessTheNumberTest - 2019.04.08 at 15h 47m 44s.xml">
+      <configuration name="GuessTheNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.08 at 11h 37m 09s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="GuessTheNumberTest - 2019.04.08 at 15h 47m 59s.xml">
+      <configuration name="GuessTheNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.08 at 11h 39m 14s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="GuessTheNumberTest_chooseEasyDifficulty - 2019.04.08 at 15h 50m 33s.xml">
+      <configuration name="GuessTheNumberTest.chooseEasyDifficulty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.08 at 13h 20m 23s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="GuessTheNumberTest - 2019.04.08 at 15h 54m 00s.xml">
+      <configuration name="GuessTheNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.08 at 13h 20m 39s.xml">
+    <history-entry file="ValidatingInputsTest - 2019.04.08 at 15h 54m 07s.xml">
       <configuration name="ValidatingInputsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64550000" />
+    <option name="totallyTimeSpent" value="69877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="792" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293944" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988183" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.2812887" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32961586" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3293944" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
@@ -517,40 +626,6 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32961586" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39900866" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.2812887" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32961586" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" weight="0.3297568" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,9 +636,20 @@
     <MESSAGE value="edited folders structure" />
     <MESSAGE value="added exercise28" />
     <MESSAGE value="added Exceptions to ValidatingInputs and additional tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Exceptions to ValidatingInputs and additional tests" />
+    <MESSAGE value="added exercise32 - Guess The Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="added exercise32 - Guess The Number" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="1+bDividedbyP*(1-(innerBrackets))" />
@@ -779,23 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise26/CreditCardCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -822,18 +891,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        <state relative-caret-position="271">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+          <folding>
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="35" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-line="52" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
