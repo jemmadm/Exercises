@@ -9,7 +9,7 @@ public class CreditCardCalculatorTest {
 
     public void doesCalculateMonthsWork(){
         CreditCardCalculator creditCardCalculator = new CreditCardCalculator();
-        assertThat(creditCardCalculator.calculateMonthsUntilPaidOff(5000,12,100)).isEqualTo(70);
+        assertThat(creditCardCalculator.calculateMonthsUntilPaidOff(7000,12,100)).isEqualTo(70);
     }
 
 

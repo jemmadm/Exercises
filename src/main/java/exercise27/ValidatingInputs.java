@@ -1,37 +1,42 @@
 package exercise27;
 
 public class ValidatingInputs {
-    public String firstNameInput(String firstName) {
-        if ( firstName.length() < 2) {
-            System.out.println(firstName + " is not  a valid first name. It is too short");
+
+    private String nameInput(String name) throws Exception {
+        if (name.length() < 2) {
+            throw new Exception("This is not a valid last name. Minimum 2 characters needed.");
         }
-        return firstName;
+        return name;
     }
 
-    public String lastNameInput(String lastName) {
-        if (lastName.length() < 2) {
-            System.out.println(lastName + " is not a valid last name. It is too short");
+    public String firstNameInput(String firstName) throws Exception {
+        return nameInput(firstName);
+    }
+
+    public String lastNameInput(String lastName) throws Exception {
+        return nameInput(lastName);
+    }
+
+    private String patternInput(String inputType, String pattern, String exceptionMessage) throws Exception {
+        if (!inputType.isEmpty())
+            if (!inputType.matches(pattern)){
+            throw new Exception(exceptionMessage);
         }
-        return lastName;
+        return inputType;
     }
 
-    public String employeeIdInput(String employeeID) {
-        if (!employeeID.isEmpty())
-            if (!employeeID.matches("\\D\\D" + "-" + "\\d\\d\\d\\d")) {
-                System.out.println(employeeID + " is not a valid employee ID");
-            }
-        return employeeID;
+    public String employeeIdInput(String employeeID) throws Exception{
+            return patternInput(employeeID,"\\D{2}" + "-" + "\\d{4}",
+                    "The ID needs to be in the format of 2 letters - 4 numbers.");
     }
 
-    public String zipInput(String zip) {
-        if (!zip.isEmpty())
-            if (!zip.matches("\\d\\d\\d\\d\\d")) {
-                System.out.println(zip + " is not a valid zip. It must be 5 digits");
-            }
-        return zip;
+    public String zipInput(String zip) throws Exception {
+        return patternInput(zip, "\\d{5}",
+                "The zipcode needs to be 5 numbers in length.");
     }
 
-    public String validateInput(){
-        return firstNameInput("Jemma") + " " + lastNameInput("Millman") + " " + employeeIdInput("JM-1389") + " " + zipInput("90210");
+    public String validateInput(String firstName, String lastName, String employeeID, String zip) throws Exception{
+        return firstNameInput(firstName) + " " + lastNameInput(lastName)
+                + " " + employeeIdInput(employeeID) + " " + zipInput(zip);
     }
 }
