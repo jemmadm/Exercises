@@ -1,7 +1,5 @@
 package exercise27;
 
-import java.util.regex.Pattern;
-
 public class ValidatingInputs {
 
     private String nameInput(String name) {

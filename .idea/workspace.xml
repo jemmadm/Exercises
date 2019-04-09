@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -60,28 +61,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="75">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding>
-                <element signature="e#420#421#0" expanded="true" />
                 <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+            <state relative-caret-position="300">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,26 +134,25 @@
         <option value="$PROJECT_DIR$/src/main/java/exercise1/Exercise1SayingHello.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise1/Exercise1SayingHelloTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise7/Exercise7RectangleRoomAreaTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise9/Exercise9PaintCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise8/Exercise8PizzaPartyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise26/CreditCardCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" />
-        <option value="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="792" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -367,7 +374,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554805242783" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554823200823" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -417,93 +424,89 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ValidatingInputsTest">
-    <configuration name="ValidatingInputsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
+  <component name="RunManager" selected="JUnit.KarvonenHeartRateTest.checkDifferentIntensities">
+    <configuration name="KarvonenHeartRate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise31.KarvonenHeartRate" />
+      <module name="Exercises.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise27.*" />
+          <option name="PATTERN" value="exercise31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercise27" />
-      <option name="MAIN_CLASS_NAME" value="exercise27.ValidatingInputsTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddingNumbersTest.allAllNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise28" />
+      <option name="MAIN_CLASS_NAME" value="exercise28.AddingNumbersTest" />
+      <option name="METHOD_NAME" value="allAllNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KarvonenHeartRateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise31" />
+      <option name="MAIN_CLASS_NAME" value="exercise31.KarvonenHeartRateTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidatingInputsTest.emptyId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercises.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise27.*" />
+          <option name="PATTERN" value="exercise31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercise27" />
-      <option name="MAIN_CLASS_NAME" value="exercise27.ValidatingInputsTest" />
-      <option name="METHOD_NAME" value="emptyId" />
+      <option name="PACKAGE_NAME" value="exercise31" />
+      <option name="MAIN_CLASS_NAME" value="exercise31.KarvonenHeartRateTest" />
+      <option name="METHOD_NAME" value="checkDifferentIntensities" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidatingInputsTest.validFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MultiplicationTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercises.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise27.*" />
+          <option name="PATTERN" value="exercise30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercise27" />
-      <option name="MAIN_CLASS_NAME" value="exercise27.ValidatingInputsTest" />
-      <option name="METHOD_NAME" value="validFirstName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidatingInputsTest.validLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise27" />
-      <option name="MAIN_CLASS_NAME" value="exercise27.ValidatingInputsTest" />
-      <option name="METHOD_NAME" value="validLastName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidatingInputsTest.validateInputFunction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise27" />
-      <option name="MAIN_CLASS_NAME" value="exercise27.ValidatingInputsTest" />
-      <option name="METHOD_NAME" value="validateInputFunction" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="exercise30" />
+      <option name="MAIN_CLASS_NAME" value="exercise30.MultiplicationTableTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ValidatingInputsTest" />
-        <item itemvalue="JUnit.ValidatingInputsTest.validLastName" />
-        <item itemvalue="JUnit.ValidatingInputsTest.validFirstName" />
-        <item itemvalue="JUnit.ValidatingInputsTest.validateInputFunction" />
-        <item itemvalue="JUnit.ValidatingInputsTest.emptyId" />
+        <item itemvalue="JUnit.KarvonenHeartRateTest.checkDifferentIntensities" />
+        <item itemvalue="Application.KarvonenHeartRate" />
+        <item itemvalue="JUnit.KarvonenHeartRateTest" />
+        <item itemvalue="JUnit.MultiplicationTableTest" />
+        <item itemvalue="JUnit.AddingNumbersTest.allAllNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -520,7 +523,7 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="36123000" />
+      <workItem from="1554212212704" duration="45173000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -606,46 +609,54 @@
       <option name="project" value="LOCAL" />
       <updated>1554798610747</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added regex to validatinginputs name method&#10;&#10;started exercise 31">
+      <created>1554805308536</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554805308536</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ValidatingInputsTest - 2019.04.09 at 11h 12m 50s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 15h 55m 14s.xml">
+      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.09 at 11h 15m 10s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 09m 58s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.09 at 11h 15m 32s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 10m 17s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.09 at 11h 15m 44s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 11m 13s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.09 at 11h 17m 37s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 11m 29s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.09 at 11h 18m 07s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 11m 37s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.09 at 11h 18m 28s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 11m 49s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.09 at 11h 18m 37s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 12m 14s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.09 at 11h 18m 43s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 12m 45s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidatingInputsTest - 2019.04.09 at 11h 18m 52s.xml">
-      <configuration name="ValidatingInputsTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 12m 52s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76958000" />
+    <option name="totallyTimeSpent" value="86008000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="792" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -656,8 +667,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293944" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988183" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27509293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3977695" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -668,7 +679,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.3293944" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3283767" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -727,7 +738,8 @@
     <MESSAGE value="refactored exercise 28&#10;&#10;started exercise 32&#10;&#10;created folders for 30 &amp; 31" />
     <MESSAGE value="file structure added for exercises 30 &amp; 31" />
     <MESSAGE value="exercise 30 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise 30 added" />
+    <MESSAGE value="added regex to validatinginputs name method&#10;&#10;started exercise 31" />
+    <option name="LAST_COMMIT_MESSAGE" value="added regex to validatinginputs name method&#10;&#10;started exercise 31" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -989,58 +1001,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="16" column="85" lean-forward="true" selection-start-line="16" selection-start-column="85" selection-end-line="16" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1077,14 +1041,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="75">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding>
-            <element signature="e#420#421#0" expanded="true" />
             <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
         </state>
       </provider>
     </entry>

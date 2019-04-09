@@ -4,9 +4,7 @@ public class AddingNumbers {
 
     int finalNumber;
 
-    public int addNumbers(int numberOne, int numberTwo, int numberThree, int numberFour, int numberFive) {
-
-        int numbers[] = {numberOne, numberTwo, numberThree, numberFour, numberFive};
+    public int addNumbers(int numbers[]) {
 
         for (int number: numbers) {
             finalNumber += number;
