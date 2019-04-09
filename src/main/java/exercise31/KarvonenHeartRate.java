@@ -4,6 +4,8 @@ public class KarvonenHeartRate {
 
     private static String[] table = new String[9];
 
+    private int index = 0;
+
 
     public int formula(int age, int restingHR, double intensity) {
 
@@ -11,17 +13,21 @@ public class KarvonenHeartRate {
         return bpm;
     }
 
-    public String checkDifferentIntensities(int age, int restingHR) {
-            for (double intensity = 55; intensity <= 95; intensity = intensity + 5)
-                for (int i = 0; i < table.length ; i++){
-                table[i] += (formula(age, restingHR, intensity) + ", ");
+    public String[] checkDifferentIntensities(int age, int restingHR) {
+        for (double intensity = 55; intensity <= 95; intensity = intensity + 5) {
+            table[index] = (formula(age, restingHR, intensity) + "");
+
+            if(index < table.length){
+                index++;
             }
 
-        return table[8];
+        }
+
+        return table;
     }
 
     public static void main(String[] args) {
         KarvonenHeartRate karvonenHeartRate = new KarvonenHeartRate();
-        karvonenHeartRate.checkDifferentIntensities(25,65);
+        karvonenHeartRate.checkDifferentIntensities(25, 65);
     }
 }

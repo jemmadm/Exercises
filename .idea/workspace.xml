@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/exercise27/ValidatingInputsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -77,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="240">
+              <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -86,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+            <state relative-caret-position="345">
+              <caret line="23" column="89" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -374,7 +371,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554823200823" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554832965310" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -424,7 +421,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.KarvonenHeartRateTest.checkDifferentIntensities">
+  <component name="RunManager" selected="JUnit.KarvonenHeartRateTest">
     <configuration name="KarvonenHeartRate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise31.KarvonenHeartRate" />
       <module name="Exercises.main" />
@@ -434,22 +431,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddingNumbersTest.allAllNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise28.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise28" />
-      <option name="MAIN_CLASS_NAME" value="exercise28.AddingNumbersTest" />
-      <option name="METHOD_NAME" value="allAllNumbers" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -485,6 +466,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KarvonenHeartRateTest.doesTheFormulaWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise31" />
+      <option name="MAIN_CLASS_NAME" value="exercise31.KarvonenHeartRateTest" />
+      <option name="METHOD_NAME" value="doesTheFormulaWork" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultiplicationTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercises.test" />
       <extension name="coverage">
@@ -502,11 +499,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.KarvonenHeartRateTest" />
         <item itemvalue="JUnit.KarvonenHeartRateTest.checkDifferentIntensities" />
         <item itemvalue="Application.KarvonenHeartRate" />
-        <item itemvalue="JUnit.KarvonenHeartRateTest" />
+        <item itemvalue="JUnit.KarvonenHeartRateTest.doesTheFormulaWork" />
         <item itemvalue="JUnit.MultiplicationTableTest" />
-        <item itemvalue="JUnit.AddingNumbersTest.allAllNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -523,7 +520,7 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="45173000" />
+      <workItem from="1554212212704" duration="47314000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -616,43 +613,50 @@
       <option name="project" value="LOCAL" />
       <updated>1554805308536</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added to exercise31">
+      <created>1554823276453</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1554823276453</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 15h 55m 14s.xml">
+    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 35m 55s.xml">
       <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 09m 58s.xml">
+    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 38m 07s.xml">
+      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 38m 10s.xml">
+      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 48m 52s.xml">
+      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 49m 09s.xml">
+      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 55m 04s.xml">
+      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 56m 48s.xml">
+      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 18h 58m 32s.xml">
       <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 10m 17s.xml">
-      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 19h 01m 25s.xml">
+      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 11m 13s.xml">
-      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 11m 29s.xml">
-      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 11m 37s.xml">
-      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 11m 49s.xml">
-      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 12m 14s.xml">
-      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 12m 45s.xml">
-      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 16h 12m 52s.xml">
+    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 19h 01m 56s.xml">
       <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86008000" />
+    <option name="totallyTimeSpent" value="88149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -739,7 +743,8 @@
     <MESSAGE value="file structure added for exercises 30 &amp; 31" />
     <MESSAGE value="exercise 30 added" />
     <MESSAGE value="added regex to validatinginputs name method&#10;&#10;started exercise 31" />
-    <option name="LAST_COMMIT_MESSAGE" value="added regex to validatinginputs name method&#10;&#10;started exercise 31" />
+    <MESSAGE value="added to exercise31" />
+    <option name="LAST_COMMIT_MESSAGE" value="added to exercise31" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1088,8 +1093,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+        <state relative-caret-position="345">
+          <caret line="23" column="89" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1098,8 +1103,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="240">
+          <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
         </state>
       </provider>
     </entry>

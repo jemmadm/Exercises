@@ -20,7 +20,8 @@ public class KarvonenHeartRateTest {
     @Test
 
     public void checkDifferentIntensities(){
-        assertThat(karvonenHeartRate.checkDifferentIntensities(22,65)).isEqualTo("138, 144, 151, 158, 164, 171, 178, 184, 191");
+        String[] expected = new String[] {"138", "144", "151", "158", "164", "171", "178", "184", "191"};
+        assertThat(karvonenHeartRate.checkDifferentIntensities(22,65)).isEqualTo(expected);
     }
 
 
