@@ -1,9 +1,11 @@
 package exercise27;
 
+import java.util.regex.Pattern;
+
 public class ValidatingInputs {
 
-    private String nameInput(String name){
-        if (name.length() < 2) {
+    private String nameInput(String name) {
+        if (!name.matches("^\\D{2,}")) {
             throw new IllegalArgumentException("This is not a valid name. Minimum 2 characters needed.");
         }
         return name;
@@ -18,19 +20,18 @@ public class ValidatingInputs {
     }
 
     private String patternInput(String input, String pattern, String exceptionMessage) {
-        if (!input.isEmpty())
-            if (!input.matches(pattern)){
+        if (!input.matches(pattern)) {
             throw new IllegalArgumentException(exceptionMessage);
         }
         return input;
     }
 
-    public String employeeIdInput(String employeeID){
-            return patternInput(employeeID,"\\D{2}" + "-" + "\\d{4}",
-                    "The ID needs to be in the format of 2 letters - 4 numbers.");
+    public String employeeIdInput(String employeeID) {
+        return patternInput(employeeID, "\\D{2}" + "-" + "\\d{4}",
+                "The ID needs to be in the format of 2 letters - 4 numbers.");
     }
 
-    public String zipInput(String zip){
+    public String zipInput(String zip) {
         return patternInput(zip, "\\d{5}",
                 "The zipcode needs to be 5 numbers in length.");
     }

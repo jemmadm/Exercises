@@ -16,7 +16,7 @@ public class ValidatingInputsTest {
     @Test(expected = IllegalArgumentException.class)
     public void invalidFirstName() {
 
-        assertThat(validatingInputs.firstNameInput("")).isNotEmpty();
+        assertThat(validatingInputs.firstNameInput("")).isEmpty();
     }
 
     @Test
@@ -49,7 +49,7 @@ public class ValidatingInputsTest {
                 .hasMessageContaining("This is not a valid name. Minimum 2 characters needed.");
     }
 
-    @Test
+    @Test(expected = IllegalArgumentException.class)
     public void emptyId() {
 
         assertThat(validatingInputs.employeeIdInput("")).isEmpty();
