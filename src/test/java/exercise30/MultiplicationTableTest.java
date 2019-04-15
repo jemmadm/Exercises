@@ -11,7 +11,7 @@ public class MultiplicationTableTest {
     @Test
 
     public void doesItWork(){
-        assertThat(multiplicationTable.timesTables().equals("0 * 0 = 0\n" +
+        assertThat(multiplicationTable.timesTables()).isEqualTo("0 * 0 = 0\n" +
                 "0 * 1 = 0\n" +
                 "0 * 2 = 0\n" +
                 "0 * 3 = 0\n" +
@@ -179,7 +179,7 @@ public class MultiplicationTableTest {
                 "12 * 9 = 108\n" +
                 "12 * 10 = 120\n" +
                 "12 * 11 = 132\n" +
-                "12 * 12 = 144"));
+                "12 * 12 = 144");
     }
 
 }
