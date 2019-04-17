@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -57,20 +57,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2715">
-              <caret line="181" column="32" selection-start-line="181" selection-start-column="32" selection-end-line="181" selection-end-column="32" />
+            <state relative-caret-position="180">
+              <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,6 +131,8 @@
         <option value="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java" />
       </list>
     </option>
   </component>
@@ -208,6 +210,14 @@
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise38" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -256,6 +266,14 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercise32" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise38" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -367,7 +385,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555530968727" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555534411953" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -383,11 +401,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercise38" />
       <recent name="exercise31" />
       <recent name="exercise30" />
       <recent name="exercise32" />
       <recent name="exercise28" />
-      <recent name="exercise9" />
     </key>
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.atcloud.io/jemma-millman/code-katas/tree/master/battleships" />
@@ -418,16 +436,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MultiplicationTableTest">
-    <configuration name="KarvonenHeartRate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise31.KarvonenHeartRate" />
-      <module name="Exercises.main" />
+  <component name="RunManager" selected="JUnit.FilteringValuesTest">
+    <configuration name="FilteringValuesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise31.*" />
+          <option name="PATTERN" value="exercise38.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="exercise38" />
+      <option name="MAIN_CLASS_NAME" value="exercise38.FilteringValuesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilteringValuesTest.evenNumbersOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise38.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise38" />
+      <option name="MAIN_CLASS_NAME" value="exercise38.FilteringValuesTest" />
+      <option name="METHOD_NAME" value="evenNumbersOutput" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -443,22 +479,6 @@
       <option name="PACKAGE_NAME" value="exercise31" />
       <option name="MAIN_CLASS_NAME" value="exercise31.KarvonenHeartRateTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise31.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise31" />
-      <option name="MAIN_CLASS_NAME" value="exercise31.KarvonenHeartRateTest" />
-      <option name="METHOD_NAME" value="checkDifferentIntensities" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -496,11 +516,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FilteringValuesTest" />
+        <item itemvalue="JUnit.FilteringValuesTest.evenNumbersOutput" />
         <item itemvalue="JUnit.MultiplicationTableTest" />
         <item itemvalue="JUnit.MultiplicationTableTest.doesItWork" />
         <item itemvalue="JUnit.KarvonenHeartRateTest" />
-        <item itemvalue="Application.KarvonenHeartRate" />
-        <item itemvalue="JUnit.KarvonenHeartRateTest.checkDifferentIntensities" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +537,7 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="53452000" />
+      <workItem from="1554212212704" duration="56457000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -631,43 +651,50 @@
       <option name="project" value="LOCAL" />
       <updated>1555519277545</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="suggested changes made to exercise30">
+      <created>1555531338441</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1555531338441</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MultiplicationTableTest - 2019.04.17 at 20h 38m 27s.xml">
-      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 45m 16s.xml">
+      <configuration name="FilteringValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MultiplicationTableTest - 2019.04.17 at 20h 38m 54s.xml">
-      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 45m 32s.xml">
+      <configuration name="FilteringValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MultiplicationTableTest - 2019.04.17 at 20h 39m 26s.xml">
-      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 46m 58s.xml">
+      <configuration name="FilteringValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MultiplicationTableTest - 2019.04.17 at 20h 41m 11s.xml">
-      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 47m 26s.xml">
+      <configuration name="FilteringValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MultiplicationTableTest - 2019.04.17 at 20h 42m 01s.xml">
-      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 50m 08s.xml">
+      <configuration name="FilteringValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MultiplicationTableTest - 2019.04.17 at 20h 43m 26s.xml">
-      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 50m 30s.xml">
+      <configuration name="FilteringValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MultiplicationTableTest - 2019.04.17 at 20h 44m 15s.xml">
-      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 50m 49s.xml">
+      <configuration name="FilteringValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MultiplicationTableTest - 2019.04.17 at 20h 44m 49s.xml">
-      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 51m 04s.xml">
+      <configuration name="FilteringValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MultiplicationTableTest - 2019.04.17 at 20h 45m 20s.xml">
-      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 52m 36s.xml">
+      <configuration name="FilteringValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MultiplicationTableTest - 2019.04.17 at 20h 46m 34s.xml">
-      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 52m 44s.xml">
+      <configuration name="FilteringValuesTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94287000" />
+    <option name="totallyTimeSpent" value="97292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="0" />
@@ -694,7 +721,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.3283767" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32791728" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -756,7 +783,8 @@
     <MESSAGE value="added regex to validatinginputs name method&#10;&#10;started exercise 31" />
     <MESSAGE value="added to exercise31" />
     <MESSAGE value="suggested changes made to exercise31" />
-    <option name="LAST_COMMIT_MESSAGE" value="suggested changes made to exercise31" />
+    <MESSAGE value="suggested changes made to exercise30" />
+    <option name="LAST_COMMIT_MESSAGE" value="suggested changes made to exercise30" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -998,13 +1026,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -1107,10 +1128,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
