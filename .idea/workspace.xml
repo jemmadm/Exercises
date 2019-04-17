@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/exercise27/ValidatingInputs.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -58,24 +58,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-              <folding>
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
+            <state relative-caret-position="330">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -83,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="89" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,7 +121,6 @@
         <option value="$PROJECT_DIR$/src/test/java/exercise9/Exercise9PaintCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise8/Exercise8PizzaPartyTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise26/CreditCardCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" />
@@ -142,14 +128,17 @@
         <option value="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
         <option value="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="792" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -183,14 +172,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise27" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -360,6 +341,15 @@
               <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -371,7 +361,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554832965310" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555519215723" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -500,8 +491,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.KarvonenHeartRateTest" />
-        <item itemvalue="JUnit.KarvonenHeartRateTest.checkDifferentIntensities" />
         <item itemvalue="Application.KarvonenHeartRate" />
+        <item itemvalue="JUnit.KarvonenHeartRateTest.checkDifferentIntensities" />
         <item itemvalue="JUnit.KarvonenHeartRateTest.doesTheFormulaWork" />
         <item itemvalue="JUnit.MultiplicationTableTest" />
       </list>
@@ -520,7 +511,7 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="47314000" />
+      <workItem from="1554212212704" duration="50668000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -620,49 +611,56 @@
       <option name="project" value="LOCAL" />
       <updated>1554823276453</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added to exercise31">
+      <created>1554833066303</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554833066303</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 35m 55s.xml">
-      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 38m 07s.xml">
-      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 38m 10s.xml">
-      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 48m 52s.xml">
-      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 49m 09s.xml">
-      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 55m 04s.xml">
-      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 18h 56m 48s.xml">
-      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 18h 58m 32s.xml">
+    <history-entry file="KarvonenHeartRateTest - 2019.04.17 at 16h 59m 47s.xml">
       <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KarvonenHeartRateTest_checkDifferentIntensities - 2019.04.09 at 19h 01m 25s.xml">
-      <configuration name="KarvonenHeartRateTest.checkDifferentIntensities" configurationId="JUnit" />
+    <history-entry file="KarvonenHeartRateTest - 2019.04.17 at 17h 00m 19s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KarvonenHeartRateTest - 2019.04.09 at 19h 01m 56s.xml">
+    <history-entry file="KarvonenHeartRateTest - 2019.04.17 at 17h 03m 31s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest - 2019.04.17 at 17h 25m 38s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest - 2019.04.17 at 17h 34m 57s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest - 2019.04.17 at 17h 35m 21s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest - 2019.04.17 at 17h 36m 32s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest - 2019.04.17 at 17h 37m 05s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest - 2019.04.17 at 17h 37m 17s.xml">
+      <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KarvonenHeartRateTest - 2019.04.17 at 17h 38m 51s.xml">
       <configuration name="KarvonenHeartRateTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88149000" />
+    <option name="totallyTimeSpent" value="91503000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -671,7 +669,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27509293" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2747415" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3977695" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -704,9 +702,9 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32961586" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27509293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3977695" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -717,7 +715,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32961586" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3283767" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -747,16 +745,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added to exercise31" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="1+bDividedbyP*(1-(innerBrackets))" />
@@ -996,16 +984,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-start-column="2" selection-end-line="35" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#786#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1056,20 +1034,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1091,10 +1055,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="89" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1103,8 +1095,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
+        <state relative-caret-position="330">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>

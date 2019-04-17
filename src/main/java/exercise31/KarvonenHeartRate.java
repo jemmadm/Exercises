@@ -2,32 +2,25 @@ package exercise31;
 
 public class KarvonenHeartRate {
 
-    private static String[] table = new String[9];
+    private static int[] table = new int[9];
 
     private int index = 0;
 
 
-    public int formula(int age, int restingHR, double intensity) {
+    public int formula(int age, int restingHR, double intensityAsPercentage) {
 
-        int bpm = (int) ((((220 - age) - restingHR) * (intensity / 100)) + restingHR);
+        int bpm = (int) ((((220 - age) - restingHR) * (intensityAsPercentage / 100)) + restingHR);
         return bpm;
     }
 
-    public String[] checkDifferentIntensities(int age, int restingHR) {
-        for (double intensity = 55; intensity <= 95; intensity = intensity + 5) {
-            table[index] = (formula(age, restingHR, intensity) + "");
+    public int[] findTargetHeartRate(int age, int restingHR) {
+        for (int intensity = 55; intensity <= 95; intensity += 5) {
+            table[index] = formula(age, restingHR, intensity);
 
-            if(index < table.length){
+            if (index < table.length) {
                 index++;
             }
-
         }
-
         return table;
-    }
-
-    public static void main(String[] args) {
-        KarvonenHeartRate karvonenHeartRate = new KarvonenHeartRate();
-        karvonenHeartRate.checkDifferentIntensities(25, 65);
     }
 }
