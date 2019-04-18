@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -58,35 +57,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -94,8 +69,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="210">
+              <caret line="14" column="204" selection-start-line="14" selection-start-column="204" selection-end-line="14" selection-end-column="204" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,10 +131,10 @@
         <option value="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" />
-        <option value="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" />
       </list>
     </option>
   </component>
@@ -237,6 +215,14 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercise38" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise39" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -417,7 +403,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555580555269" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555583255966" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -468,7 +454,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortingRecords">
+  <component name="RunManager" selected="JUnit.SortingRecordsTest">
     <configuration name="SortingRecords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecords" />
       <module name="Exercises.main" />
@@ -528,29 +514,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTableTest.doesItWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortingRecordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercises.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise30.*" />
+          <option name="PATTERN" value="exercise39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercise30" />
-      <option name="MAIN_CLASS_NAME" value="exercise30.MultiplicationTableTest" />
-      <option name="METHOD_NAME" value="doesItWork" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="exercise39" />
+      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SortingRecordsTest" />
         <item itemvalue="Application.SortingRecords" />
         <item itemvalue="JUnit.FilteringValuesTest" />
         <item itemvalue="JUnit.FilteringValuesTest.evenNumbersOutput" />
         <item itemvalue="JUnit.MultiplicationTableTest" />
-        <item itemvalue="JUnit.MultiplicationTableTest.doesItWork" />
       </list>
     </recent_temporary>
   </component>
@@ -567,7 +552,7 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="59114000" />
+      <workItem from="1554212212704" duration="61757000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -702,49 +687,56 @@
       <option name="project" value="LOCAL" />
       <updated>1555577682752</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="refactored 38">
+      <created>1555580744551</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1555580744551</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 45m 16s.xml">
-      <configuration name="FilteringValuesTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 10m 21s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 45m 32s.xml">
-      <configuration name="FilteringValuesTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 11m 00s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 46m 58s.xml">
-      <configuration name="FilteringValuesTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 16m 08s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 47m 26s.xml">
-      <configuration name="FilteringValuesTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 16m 40s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 50m 08s.xml">
-      <configuration name="FilteringValuesTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 17m 12s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 50m 30s.xml">
-      <configuration name="FilteringValuesTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 20m 02s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 50m 49s.xml">
-      <configuration name="FilteringValuesTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 20m 43s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 51m 04s.xml">
-      <configuration name="FilteringValuesTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 21m 48s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 52m 36s.xml">
-      <configuration name="FilteringValuesTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 25m 57s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FilteringValuesTest - 2019.04.17 at 21h 52m 44s.xml">
-      <configuration name="FilteringValuesTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 26m 28s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99949000" />
+    <option name="totallyTimeSpent" value="102592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -754,7 +746,7 @@
       <window_info anchor="bottom" id="Thumbnails" weight="0.3293944" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2747415" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2747415" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39734122" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -831,7 +823,8 @@
     <MESSAGE value="suggested changes made to exercise30" />
     <MESSAGE value="added exercise 38" />
     <MESSAGE value="created exercise 39" />
-    <option name="LAST_COMMIT_MESSAGE" value="created exercise 39" />
+    <MESSAGE value="refactored 38" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored 38" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -1189,20 +1182,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -1213,13 +1196,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        <state relative-caret-position="210">
+          <caret line="14" column="204" selection-start-line="14" selection-start-column="204" selection-end-line="14" selection-end-column="204" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
         </state>
       </provider>
     </entry>
