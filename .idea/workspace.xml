@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -385,7 +381,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555534411953" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555577664061" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -537,7 +533,7 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="56457000" />
+      <workItem from="1554212212704" duration="56776000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -658,7 +654,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555531338441</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added exercise 38">
+      <created>1555534503065</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555534503065</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -694,7 +697,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97292000" />
+    <option name="totallyTimeSpent" value="97611000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="0" />
@@ -784,7 +787,8 @@
     <MESSAGE value="added to exercise31" />
     <MESSAGE value="suggested changes made to exercise31" />
     <MESSAGE value="suggested changes made to exercise30" />
-    <option name="LAST_COMMIT_MESSAGE" value="suggested changes made to exercise30" />
+    <MESSAGE value="added exercise 38" />
+    <option name="LAST_COMMIT_MESSAGE" value="added exercise 38" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
