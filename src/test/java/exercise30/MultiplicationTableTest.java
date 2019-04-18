@@ -179,7 +179,7 @@ public class MultiplicationTableTest {
                 "12 * 9 = 108\n" +
                 "12 * 10 = 120\n" +
                 "12 * 11 = 132\n" +
-                "12 * 12 = 144");
+                "12 * 12 = 144\n");
     }
 
 }
