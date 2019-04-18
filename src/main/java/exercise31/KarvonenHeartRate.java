@@ -2,13 +2,14 @@ package exercise31;
 
 public class KarvonenHeartRate {
 
+    //scoping?
     private static int[] table = new int[9];
-
+    //scoping?
     private int index = 0;
 
 
     public int formula(int age, int restingHR, double intensityAsPercentage) {
-
+        //just return?
         int bpm = (int) ((((220 - age) - restingHR) * (intensityAsPercentage / 100)) + restingHR);
         return bpm;
     }

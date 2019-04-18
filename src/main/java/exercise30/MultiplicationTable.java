@@ -2,6 +2,7 @@ package exercise30;
 
 public class MultiplicationTable {
 
+    //scoping?
     String multiplication = " ";
     StringBuilder multiplicationTable = new StringBuilder();
 
