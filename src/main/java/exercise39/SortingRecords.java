@@ -18,9 +18,7 @@ public class SortingRecords {
         return map;
     }
 
-    public String recordSorter() {
-
-        String unsortedRecords = "";
+    public List<Map<String, String>> recordsCreator() {
 
         Map<String, String> johnMap = createRecord("John", "Johnson", "Manager", "2016-12-31");
         Map<String, String> touMap = createRecord("Tou", "Xiong", "Software Engineer", "2016-10-05");
@@ -38,9 +36,14 @@ public class SortingRecords {
         records.add(jacquelynMap);
         records.add(sallyMap);
 
+        return records;
+    }
+
+    public String recordSorter(List<Map<String, String>> records) {
+
+        String unsortedRecords = "";
         records.sort(
-                Comparator.comparing(record -> record.get("Last Name"))
-        );
+                Comparator.comparing(record -> record.get("Last Name")));
 
         for (Map<String, String> map : records) {
             String date = map.get("Date");
@@ -54,26 +57,9 @@ public class SortingRecords {
         return unsortedRecords.trim();
     }
 
-    public String recordFilter(String searchTerm) {
+    public String recordFilter(String searchTerm, List<Map<String, String>> records) {
 
         String filteredRecords = "";
-
-        Map<String, String> johnMap = createRecord("John", "Johnson", "Manager", "2016-12-31");
-        Map<String, String> touMap = createRecord("Tou", "Xiong", "Software Engineer", "2016-10-05");
-        Map<String, String> michaelaMap = createRecord("Michaela", "Michaelson", "District Manager", "2015-12-19");
-        Map<String, String> jakeMap = createRecord("Jake", "Jacobson", "Programmer");
-        Map<String, String> jacquelynMap = createRecord("Jacquelyn", "Jackson", "DBA");
-        Map<String, String> sallyMap = createRecord("Sally", "Weber", "Web Developer", "2015-12-18");
-
-        List<Map<String, String>> records = new ArrayList<>();
-
-        records.add(johnMap);
-        records.add(touMap);
-        records.add(michaelaMap);
-        records.add(jakeMap);
-        records.add(jacquelynMap);
-        records.add(sallyMap);
-
         for (Map<String, String> map : records) {
             if (map.get("First Name").contains(searchTerm) || map.get("Last Name").contains(searchTerm)) {
                 filteredRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position");
@@ -81,7 +67,6 @@ public class SortingRecords {
             filteredRecords += "\n";
         }
         return filteredRecords.trim();
-
     }
 }
 
