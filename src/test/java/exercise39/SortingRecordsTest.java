@@ -6,7 +6,7 @@ import static org.assertj.core.api.Assertions.*;
 
 public class SortingRecordsTest {
 
-    SortingRecords sortingRecords = new SortingRecords();
+    private SortingRecords sortingRecords = new SortingRecords();
 
     @Test
     public void sortByLastNames() {
@@ -16,5 +16,10 @@ public class SortingRecordsTest {
                 "Michaela Michaelson District Manager 2015-12-19\n" +
                 "Sally Weber Web Developer 2015-12-18\n" +
                 "Tou Xiong Software Engineer 2016-10-05");
+    }
+
+    @Test
+    public void filterNames(){
+        assertThat(sortingRecords.recordFilter("Jac")).isEqualToIgnoringCase("Jake Jacobson Programmer\n" + "Jacquelyn Jackson DBA");
     }
 }
