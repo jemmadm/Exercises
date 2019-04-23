@@ -4,7 +4,6 @@
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -57,16 +56,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+            <state relative-caret-position="135">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -360,7 +359,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556023294377" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556025311182" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -512,7 +511,7 @@
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
       <workItem from="1554212212704" duration="74948000" />
-      <workItem from="1556005151817" duration="7103000" />
+      <workItem from="1556005151817" duration="9075000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -682,22 +681,17 @@
       <option name="project" value="LOCAL" />
       <updated>1556016854672</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="more refactoring SortingRecords class">
+      <created>1556023346594</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1556023346594</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 16m 50s.xml">
-      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 52m 44s.xml">
-      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 53m 44s.xml">
-      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 56m 23s.xml">
-      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 12h 02m 42s.xml">
       <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
     </history-entry>
@@ -716,9 +710,21 @@
     <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 13h 41m 36s.xml">
       <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 13h 49m 56s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 13h 50m 38s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 13h 58m 12s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 14h 04m 32s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122886000" />
+    <option name="totallyTimeSpent" value="124858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
@@ -816,7 +822,8 @@
     <MESSAGE value="started 39" />
     <MESSAGE value="new test created and passing for unsorted records" />
     <MESSAGE value="refactored SortingRecords class" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactored SortingRecords class" />
+    <MESSAGE value="more refactoring SortingRecords class" />
+    <option name="LAST_COMMIT_MESSAGE" value="more refactoring SortingRecords class" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -1159,6 +1166,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/testtt.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1166,13 +1180,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
         </state>
       </provider>
     </entry>
