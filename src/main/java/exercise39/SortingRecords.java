@@ -37,12 +37,10 @@ public class SortingRecords {
         records.add(jacquelynMap);
         records.add(sallyMap);
 
-        records.sort(new Comparator<Map<String, String>>() {
-            @Override
-            public int compare(Map<String, String> record1, Map<String, String> record2) {
-                return record1.get("Last Name").compareTo(record2.get("Last Name"));
-            }
-        });
+        records.sort(
+            (record1, record2)->
+                 record1.get("Last Name").compareTo(record2.get("Last Name"))
+        );
 
         for (Map<String, String> map : records) {
             String date = map.get("Date");
