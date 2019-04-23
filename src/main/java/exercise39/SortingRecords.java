@@ -35,7 +35,12 @@ public class SortingRecords {
         records.add(sallyMap);
 
         for (Map<String, String> map : records) {
-            unsortedRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position") + " " + map.get("Date") + "\n";
+            unsortedRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position");
+
+            if (!map.get("Date").isEmpty()) {
+                unsortedRecords += " " + map.get("Date");
+            }
+            unsortedRecords += "\n";
         }
         return unsortedRecords.trim();
     }
