@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" afterDir="false" />
     </list>
@@ -60,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            <state relative-caret-position="760">
+              <caret line="59" column="158" selection-start-line="59" selection-start-column="158" selection-end-line="59" selection-end-column="158" />
             </state>
           </provider>
         </entry>
@@ -69,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="204" selection-start-line="14" selection-start-column="204" selection-end-line="14" selection-end-column="204" />
+            <state relative-caret-position="240">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,13 +85,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot; &quot;</find>
+    </findStrings>
     <replaceStrings>
+      <replace />
       <replace />
     </replaceStrings>
   </component>
@@ -128,20 +134,20 @@
         <option value="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
         <option value="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise39/testtt.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="792" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -236,54 +242,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise27" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise28" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise30" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise31" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise32" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise38" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -396,14 +354,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555583553073" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556014616623" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -454,9 +412,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortingRecordsTest">
-    <configuration name="SortingRecords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecords" />
+  <component name="RunManager" selected="JUnit.SortingRecordsTest.unsortedRecords">
+    <configuration name="testtt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise39.testtt" />
       <module name="Exercises.main" />
       <extension name="coverage">
         <pattern>
@@ -464,52 +422,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FilteringValuesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise38.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise38" />
-      <option name="MAIN_CLASS_NAME" value="exercise38.FilteringValuesTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FilteringValuesTest.evenNumbersOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise38.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise38" />
-      <option name="MAIN_CLASS_NAME" value="exercise38.FilteringValuesTest" />
-      <option name="METHOD_NAME" value="evenNumbersOutput" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiplicationTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise30" />
-      <option name="MAIN_CLASS_NAME" value="exercise30.MultiplicationTableTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -529,13 +441,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortingRecordsTest.SortLastNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise39" />
+      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
+      <option name="METHOD_NAME" value="SortLastNames" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingRecordsTest.doesSortWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise39" />
+      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
+      <option name="METHOD_NAME" value="doesSortWork" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingRecordsTest.unsortedRecords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise39" />
+      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
+      <option name="METHOD_NAME" value="unsortedRecords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SortingRecordsTest.unsortedRecords" />
         <item itemvalue="JUnit.SortingRecordsTest" />
-        <item itemvalue="Application.SortingRecords" />
-        <item itemvalue="JUnit.FilteringValuesTest" />
-        <item itemvalue="JUnit.FilteringValuesTest.evenNumbersOutput" />
-        <item itemvalue="JUnit.MultiplicationTableTest" />
+        <item itemvalue="JUnit.SortingRecordsTest.SortLastNames" />
+        <item itemvalue="Application.testtt" />
+        <item itemvalue="JUnit.SortingRecordsTest.doesSortWork" />
       </list>
     </recent_temporary>
   </component>
@@ -552,7 +512,8 @@
       <workItem from="1548101687740" duration="70000" />
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
-      <workItem from="1554212212704" duration="61757000" />
+      <workItem from="1554212212704" duration="74948000" />
+      <workItem from="1556005151817" duration="3962000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -694,60 +655,73 @@
       <option name="project" value="LOCAL" />
       <updated>1555580744551</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="started 39">
+      <created>1555583477299</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1555583477299</updated>
+    </task>
+    <task id="LOCAL-00022" summary="started 39">
+      <created>1555583564040</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1555583564040</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 10m 21s.xml">
+    <history-entry file="SortingRecordsTest - 2019.04.23 at 10h 46m 42s.xml">
       <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 11m 00s.xml">
+    <history-entry file="SortingRecordsTest - 2019.04.23 at 10h 57m 02s.xml">
       <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 16m 08s.xml">
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 00m 53s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 04m 30s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 05m 32s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest - 2019.04.23 at 11h 06m 38s.xml">
       <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 16m 40s.xml">
-      <configuration name="SortingRecordsTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 07m 34s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 17m 12s.xml">
-      <configuration name="SortingRecordsTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 08m 55s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 20m 02s.xml">
-      <configuration name="SortingRecordsTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 10m 56s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 20m 43s.xml">
-      <configuration name="SortingRecordsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 21m 48s.xml">
-      <configuration name="SortingRecordsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 25m 57s.xml">
-      <configuration name="SortingRecordsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest - 2019.04.18 at 11h 26m 28s.xml">
-      <configuration name="SortingRecordsTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_unsortedRecords - 2019.04.23 at 11h 11m 56s.xml">
+      <configuration name="SortingRecordsTest.unsortedRecords" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102592000" />
+    <option name="totallyTimeSpent" value="119745000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="792" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19648562" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Thumbnails" weight="0.3293944" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2747415" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39734122" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.96960485" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39653036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -758,7 +732,8 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32791728" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32624114" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.3293944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -771,7 +746,7 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19648562" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -780,19 +755,20 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27509293" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3977695" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.96960485" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39653036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.2812887" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3293944" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.3283767" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32624114" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.3293944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -824,7 +800,8 @@
     <MESSAGE value="added exercise 38" />
     <MESSAGE value="created exercise 39" />
     <MESSAGE value="refactored 38" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactored 38" />
+    <MESSAGE value="started 39" />
+    <option name="LAST_COMMIT_MESSAGE" value="started 39" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -873,16 +850,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise7/Exercise7RectangleRoomAreaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise7/Exercise7RectangleRoomAreaTest.java" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -949,13 +917,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise1/Exercise1SayingHelloTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise1/Exercise1SayingHelloTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise1/Exercise1SayingHelloTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -980,13 +942,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise8/Exercise8PizzaPartyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="55" column="1" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="55" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise8/Exercise8PizzaPartyTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise8/Exercise8PizzaParty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -994,16 +950,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise9/Exercise9PaintCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="76" column="1" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="76" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise9/Exercise9PaintCalculatorTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise9/Exercise9PaintCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1141,23 +1088,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2715">
@@ -1175,17 +1105,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1196,10 +1143,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/testtt.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="204" selection-start-line="14" selection-start-column="204" selection-end-line="14" selection-end-column="204" />
+        <state relative-caret-position="240">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1208,8 +1156,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        <state relative-caret-position="760">
+          <caret line="59" column="158" selection-start-line="59" selection-start-column="158" selection-end-line="59" selection-end-column="158" />
         </state>
       </provider>
     </entry>
