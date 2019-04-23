@@ -37,6 +37,8 @@ public class SortingRecords {
         records.add(jacquelynMap);
         records.add(sallyMap);
 
+        records.sort(new LastNameComparator());
+
         for (Map<String, String> map : records) {
             String date = map.get("Date");
             unsortedRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position");
