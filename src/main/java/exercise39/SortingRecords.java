@@ -60,8 +60,11 @@ public class SortingRecords {
     public String recordFilter(String searchTerm, List<Map<String, String>> records) {
 
         String filteredRecords = "";
+        //removeIf?
         for (Map<String, String> map : records) {
+            //can we do some of the "challenges"?
             if (map.get("First Name").contains(searchTerm) || map.get("Last Name").contains(searchTerm)) {
+                //repetition?
                 filteredRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position");
             }
             filteredRecords += "\n";
