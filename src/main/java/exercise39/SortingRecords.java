@@ -19,7 +19,6 @@ public class SortingRecords {
     }
 
     public List<Map<String, String>> recordsCreator() {
-
         Map<String, String> johnMap = createRecord("John", "Johnson", "Manager", "2016-12-31");
         Map<String, String> touMap = createRecord("Tou", "Xiong", "Software Engineer", "2016-10-05");
         Map<String, String> michaelaMap = createRecord("Michaela", "Michaelson", "District Manager", "2015-12-19");
