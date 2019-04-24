@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Exercises" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Exercises" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Exercises" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Exercises" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot; &quot;</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Exercise9/Exercise9PaintCalculator.java" />
+        <option value="$PROJECT_DIR$/src/Exercise23/Exercise23CarIssuesTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/Exercise23CarIssues.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise23/Exercise23CarIssuesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise23/Exercise23CarIssues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise23/Answer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise23/CarIssuesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise23/UserInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise23/Question.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise23/CarIssues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise27/JasonCreditCardCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise27/CreditCardCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise27/CreditCardCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise26/CreditCardCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise1/Exercise1SayingHello.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise1/Exercise1SayingHelloTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise7/Exercise7RectangleRoomAreaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise9/Exercise9PaintCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise8/Exercise8PizzaPartyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise26/CreditCardCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise39/testtt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise39/LastNameComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise27" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise28" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise32" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise38" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise39" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise27" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise28" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise32" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise38" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise39" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="98898282-79be-4238-b562-f98cb9974566" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556052444301" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercise39" />
+      <recent name="exercise38" />
+      <recent name="exercise31" />
+      <recent name="exercise30" />
+      <recent name="exercise32" />
+    </key>
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.atcloud.io/jemma-millman/code-katas/tree/master/battleships" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="exercise23" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/exercise6" />
+      <recent name="$PROJECT_DIR$/src/main/java/exercise7" />
+      <recent name="$PROJECT_DIR$/src/main/java/exercise5" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SortingRecordsTest">
+    <configuration name="SortingRecordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise39" />
+      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingRecordsTest.SortLastNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise39" />
+      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
+      <option name="METHOD_NAME" value="SortLastNames" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingRecordsTest.filterNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise39" />
+      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
+      <option name="METHOD_NAME" value="filterNames" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingRecordsTest.sortByLastNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise39" />
+      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
+      <option name="METHOD_NAME" value="sortByLastNames" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingRecordsTest.unsortedRecords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise39" />
+      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
+      <option name="METHOD_NAME" value="unsortedRecords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SortingRecordsTest" />
+        <item itemvalue="JUnit.SortingRecordsTest.sortByLastNames" />
+        <item itemvalue="JUnit.SortingRecordsTest.filterNames" />
+        <item itemvalue="JUnit.SortingRecordsTest.unsortedRecords" />
+        <item itemvalue="JUnit.SortingRecordsTest.SortLastNames" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="" />
+      <created>1548101686526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548101686526</updated>
+      <workItem from="1548101687740" duration="70000" />
+      <workItem from="1550224410854" duration="24402000" />
+      <workItem from="1554120448370" duration="16363000" />
+      <workItem from="1554212212704" duration="74948000" />
+      <workItem from="1556005151817" duration="17665000" />
+    </task>
+    <task id="LOCAL-00001" summary="add Exercises">
+      <created>1554283438618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554283438618</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Exercises">
+      <created>1554283590106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554283590106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Exercises">
+      <created>1554284359859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554284359859</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Exercises">
+      <created>1554284401788</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554284401788</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edited folders structure">
+      <created>1554284893759</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554284893759</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added exercise28">
+      <created>1554315172894</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554315172894</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added exercise28">
+      <created>1554315207078</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554315207078</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added Exceptions to ValidatingInputs and additional tests">
+      <created>1554727337725</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554727337725</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added exercise32 - Guess The Number">
+      <created>1554728646354</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554728646354</updated>
+    </task>
+    <task id="LOCAL-00010" summary="refactored exercise 28&#10;&#10;started exercise 32&#10;&#10;created folders for 30 &amp; 31">
+      <created>1554735379868</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554735379868</updated>
+    </task>
+    <task id="LOCAL-00011" summary="file structure added for exercises 30 &amp; 31">
+      <created>1554735729504</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554735729504</updated>
+    </task>
+    <task id="LOCAL-00012" summary="exercise 30 added">
+      <created>1554798610747</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554798610747</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added regex to validatinginputs name method&#10;&#10;started exercise 31">
+      <created>1554805308536</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554805308536</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added to exercise31">
+      <created>1554823276453</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1554823276453</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added to exercise31">
+      <created>1554833066303</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554833066303</updated>
+    </task>
+    <task id="LOCAL-00016" summary="suggested changes made to exercise31">
+      <created>1555519277545</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1555519277545</updated>
+    </task>
+    <task id="LOCAL-00017" summary="suggested changes made to exercise30">
+      <created>1555531338441</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1555531338441</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added exercise 38">
+      <created>1555534503065</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555534503065</updated>
+    </task>
+    <task id="LOCAL-00019" summary="created exercise 39">
+      <created>1555577682751</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1555577682752</updated>
+    </task>
+    <task id="LOCAL-00020" summary="refactored 38">
+      <created>1555580744551</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1555580744551</updated>
+    </task>
+    <task id="LOCAL-00021" summary="started 39">
+      <created>1555583477299</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1555583477299</updated>
+    </task>
+    <task id="LOCAL-00022" summary="started 39">
+      <created>1555583564040</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1555583564040</updated>
+    </task>
+    <task id="LOCAL-00023" summary="new test created and passing for unsorted records">
+      <created>1556014664780</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1556014664780</updated>
+    </task>
+    <task id="LOCAL-00024" summary="refactored SortingRecords class">
+      <created>1556016854672</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1556016854672</updated>
+    </task>
+    <task id="LOCAL-00025" summary="more refactoring SortingRecords class">
+      <created>1556023346594</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1556023346594</updated>
+    </task>
+    <task id="LOCAL-00026" summary="overloaded createRecords method">
+      <created>1556025355449</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1556025355449</updated>
+    </task>
+    <task id="LOCAL-00027" summary="overloaded createRecords method">
+      <created>1556025362748</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1556025362748</updated>
+    </task>
+    <task id="LOCAL-00028" summary="LastNameComparator class created to sort last names alphabetically. Sorted test passes">
+      <created>1556028160775</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1556028160775</updated>
+    </task>
+    <task id="LOCAL-00029" summary="removed LastNameComparator class and added Comparator into SortingRecords class">
+      <created>1556028339664</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1556028339664</updated>
+    </task>
+    <task id="LOCAL-00030" summary="used lambda in sort method and removed LastNameComparator entirely">
+      <created>1556029142809</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1556029142809</updated>
+    </task>
+    <task id="LOCAL-00031" summary="started filter exercise, wrote filter method needs refactoring">
+      <created>1556039598240</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1556039598240</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.23 at 16h 13m 43s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.23 at 16h 14m 22s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest - 2019.04.23 at 16h 14m 44s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.23 at 16h 16m 51s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.23 at 16h 18m 20s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.23 at 16h 20m 33s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.23 at 16h 20m 52s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.23 at 16h 21m 11s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.23 at 16h 21m 40s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.23 at 16h 22m 02s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="133686000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-240" y="-1057" width="1920" height="1057" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.195629" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9628253" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39653036" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.2812887" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3293944" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32589838" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.3293944" />
+      <window_info anchor="bottom" id="Duplicate detector" order="16" weight="0.32961586" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19599427" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.9628253" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39653036" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.2812887" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3293944" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32589838" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.3293944" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Exercises" />
+    <MESSAGE value="edited folders structure" />
+    <MESSAGE value="added exercise28" />
+    <MESSAGE value="added Exceptions to ValidatingInputs and additional tests" />
+    <MESSAGE value="added exercise32 - Guess The Number" />
+    <MESSAGE value="refactored exercise 28&#10;&#10;started exercise 32&#10;&#10;created folders for 30 &amp; 31" />
+    <MESSAGE value="file structure added for exercises 30 &amp; 31" />
+    <MESSAGE value="exercise 30 added" />
+    <MESSAGE value="added regex to validatinginputs name method&#10;&#10;started exercise 31" />
+    <MESSAGE value="added to exercise31" />
+    <MESSAGE value="suggested changes made to exercise31" />
+    <MESSAGE value="suggested changes made to exercise30" />
+    <MESSAGE value="added exercise 38" />
+    <MESSAGE value="created exercise 39" />
+    <MESSAGE value="refactored 38" />
+    <MESSAGE value="started 39" />
+    <MESSAGE value="new test created and passing for unsorted records" />
+    <MESSAGE value="refactored SortingRecords class" />
+    <MESSAGE value="more refactoring SortingRecords class" />
+    <MESSAGE value="overloaded createRecords method" />
+    <MESSAGE value="LastNameComparator class created to sort last names alphabetically. Sorted test passes" />
+    <MESSAGE value="removed LastNameComparator class and added Comparator into SortingRecords class" />
+    <MESSAGE value="used lambda in sort method and removed LastNameComparator entirely" />
+    <MESSAGE value="started filter exercise, wrote filter method needs refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="started filter exercise, wrote filter method needs refactoring" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="1+bDividedbyP*(1-(innerBrackets))" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>upperLog/lowerLog</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1+bDividedbyP*(1-(innerBrackets))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1+bDividedbyP*(1-(innerBrackets</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outerBrackets*(1-(innerBrackets))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outerBrackets*(1-(innerBrackets)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outerBrackets*(1-(innerBrackets</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>innerBrackets</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise7/Exercise7RectangleRoomAreaTest.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise23/Answer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise23/UserInput.java" />
+    <entry file="https://github.atcloud.io/jemma-millman/code-katas/tree/master/battleships">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise23/CarIssues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise23/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise27/JasonCreditCardCalculator.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Math.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise23/CarIssuesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise1/Exercise1SayingHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise1/Exercise1SayingHelloTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise1/Exercise1SayingHelloTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise7/Exercise7RectangleRoomArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise7/Exercise7RectangleRoomAreaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise8/Exercise8PizzaPartyTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise8/Exercise8PizzaParty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise9/Exercise9PaintCalculatorTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise9/Exercise9PaintCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise8/Exercise8PizzaPartyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="52" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#1742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise9/Exercise9PaintCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="78" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#2219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise26/CreditCardCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise26/CreditCardCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/55362d8f04018b1140c5a370057bf8cd4a63c3de/assertj-core-3.11.1-sources.jar!/org/assertj/core/api/ThrowableAssert.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise27/ValidatingInputsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise28/AddingNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise27/ValidatingInputs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise28/AddingNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise32/GuessTheNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise30/MultiplicationTableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise32/GuessTheNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise38/FilteringValuesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise31/KarvonenHeartRateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/testtt.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/LastNameComparator.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise38/FilteringValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise30/MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise31/KarvonenHeartRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Exercises</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
