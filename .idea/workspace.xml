@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b346253d-6309-480e-a4b1-06c7e6decdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise41/NameSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercise41/NameSorterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" afterDir="false" />
     </list>
@@ -58,11 +56,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+            <state relative-caret-position="-324">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,32 +73,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exercise41/NameSorter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/exercise41/NameSorterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -165,9 +140,9 @@
         <option value="$PROJECT_DIR$/src/main/java/exercise39/testtt.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercise39/LastNameComparator.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise39/SortingRecordsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercise41/NameSorter.java" />
         <option value="$PROJECT_DIR$/src/test/java/exercise41/NameSorterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise41/NameSorter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java" />
       </list>
     </option>
   </component>
@@ -287,147 +262,6 @@
             </path>
             <path>
               <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise41" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="internal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="internal" type="462c0819:PsiDirectoryNode" />
-              <item name="runners" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="internal" type="462c0819:PsiDirectoryNode" />
-              <item name="runners" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-              <item name="runners" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="assertj-core-3.11.1.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="assertj-core-3.11.1.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="assertj-core-3.11.1.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -446,7 +280,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556128845895" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556223639769" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -497,7 +331,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NameSorterTest">
+  <component name="RunManager" selected="JUnit.SortingRecordsTest">
     <configuration name="NameSorterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercises.test" />
       <extension name="coverage">
@@ -560,7 +394,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingRecordsTest.sortByLastNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortingRecordsTest.filterNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercises.test" />
       <extension name="coverage">
         <pattern>
@@ -570,7 +404,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="exercise39" />
       <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
-      <option name="METHOD_NAME" value="sortByLastNames" />
+      <option name="METHOD_NAME" value="filterNames" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -578,11 +412,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SortingRecordsTest" />
+        <item itemvalue="JUnit.SortingRecordsTest.filterNames" />
         <item itemvalue="JUnit.NameSorterTest" />
         <item itemvalue="JUnit.NameSorterTest.orderedNames" />
         <item itemvalue="JUnit.NameSorterTest.orderedDimSumNames" />
-        <item itemvalue="JUnit.SortingRecordsTest" />
-        <item itemvalue="JUnit.SortingRecordsTest.sortByLastNames" />
       </list>
     </recent_temporary>
   </component>
@@ -600,7 +434,7 @@
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
       <workItem from="1554212212704" duration="74948000" />
-      <workItem from="1556005151817" duration="23100000" />
+      <workItem from="1556005151817" duration="28671000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -826,71 +660,79 @@
       <option name="project" value="LOCAL" />
       <updated>1556052591076</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="exercise 41 added">
+      <created>1556129587364</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1556129587364</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NameSorterTest_orderedNames - 2019.04.24 at 18h 51m 54s.xml">
-      <configuration name="NameSorterTest.orderedNames" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 29m 37s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameSorterTest - 2019.04.24 at 18h 52m 40s.xml">
-      <configuration name="NameSorterTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 31m 04s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameSorterTest_orderedDimSumNames - 2019.04.24 at 18h 52m 58s.xml">
-      <configuration name="NameSorterTest.orderedDimSumNames" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 31m 28s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameSorterTest - 2019.04.24 at 18h 53m 58s.xml">
-      <configuration name="NameSorterTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 31m 52s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameSorterTest_orderedDimSumNames - 2019.04.24 at 18h 54m 23s.xml">
-      <configuration name="NameSorterTest.orderedDimSumNames" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 32m 07s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameSorterTest_orderedDimSumNames - 2019.04.24 at 18h 54m 45s.xml">
-      <configuration name="NameSorterTest.orderedDimSumNames" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 32m 27s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameSorterTest - 2019.04.24 at 18h 54m 52s.xml">
-      <configuration name="NameSorterTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 39m 59s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameSorterTest - 2019.04.24 at 18h 56m 27s.xml">
-      <configuration name="NameSorterTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 40m 34s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameSorterTest_orderedNames - 2019.04.24 at 18h 58m 10s.xml">
-      <configuration name="NameSorterTest.orderedNames" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 40m 47s.xml">
+      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NameSorterTest - 2019.04.24 at 18h 58m 16s.xml">
-      <configuration name="NameSorterTest" configurationId="JUnit" />
+    <history-entry file="SortingRecordsTest - 2019.04.25 at 20h 57m 10s.xml">
+      <configuration name="SortingRecordsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138883000" />
+    <option name="totallyTimeSpent" value="144454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19599427" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19599427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Duplicate detector" weight="0.32961586" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.9628253" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39653036" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.2812887" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3293944" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32589838" />
-      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.3293944" />
+      <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32961586" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3293944" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.9628253" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39653036" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.2812887" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293944" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32589838" />
+      <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.3293944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -943,7 +785,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Exercises" />
     <MESSAGE value="edited folders structure" />
     <MESSAGE value="added exercise28" />
     <MESSAGE value="added Exceptions to ValidatingInputs and additional tests" />
@@ -968,7 +809,8 @@
     <MESSAGE value="used lambda in sort method and removed LastNameComparator entirely" />
     <MESSAGE value="started filter exercise, wrote filter method needs refactoring" />
     <MESSAGE value="extracted duplicate code as new method, recordsCreator. Both tests pass" />
-    <option name="LAST_COMMIT_MESSAGE" value="extracted duplicate code as new method, recordsCreator. Both tests pass" />
+    <MESSAGE value="exercise 41 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 41 added" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -1359,10 +1201,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/exercise41/NameSorterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+        <state relative-caret-position="525">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise41/NameSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1373,22 +1230,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercise41/NameSorter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercise41/NameSorterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        <state relative-caret-position="-324">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

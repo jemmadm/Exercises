@@ -1,12 +1,12 @@
 package exercise39;
-
+import java.time.LocalDate;
 import java.util.*;
 
 public class SortingRecords {
 
-    public Map<String, String> createRecord(String firstName, String lastName, String position, String date) {
+    public Map<String, String> createRecord(String firstName, String lastName, String position, LocalDate date) {
         Map<String, String> map = createRecord(firstName, lastName, position);
-        map.put("Date", date);
+        map.put("Date", date.toString());
         return map;
     }
 
@@ -19,12 +19,12 @@ public class SortingRecords {
     }
 
     public List<Map<String, String>> recordsCreator() {
-        Map<String, String> johnMap = createRecord("John", "Johnson", "Manager", "2016-12-31");
-        Map<String, String> touMap = createRecord("Tou", "Xiong", "Software Engineer", "2016-10-05");
-        Map<String, String> michaelaMap = createRecord("Michaela", "Michaelson", "District Manager", "2015-12-19");
+        Map<String, String> johnMap = createRecord("John", "Johnson", "Manager", LocalDate.of(2016,12,31));
+        Map<String, String> touMap = createRecord("Tou", "Xiong", "Software Engineer", LocalDate.of(2016,10,5));
+        Map<String, String> michaelaMap = createRecord("Michaela", "Michaelson", "District Manager", LocalDate.of(2015,12,19));
         Map<String, String> jakeMap = createRecord("Jake", "Jacobson", "Programmer");
         Map<String, String> jacquelynMap = createRecord("Jacquelyn", "Jackson", "DBA");
-        Map<String, String> sallyMap = createRecord("Sally", "Weber", "Web Developer", "2015-12-18");
+        Map<String, String> sallyMap = createRecord("Sally", "Weber", "Web Developer", LocalDate.of(2015,12,18));
 
         List<Map<String, String>> records = new ArrayList<>();
 
@@ -59,13 +59,15 @@ public class SortingRecords {
     public String recordFilter(String searchTerm, List<Map<String, String>> records) {
 
         String filteredRecords = "";
+//        for (Map<String, String> map : records) {
+//            if (map.get("First Name").contains(searchTerm) || map.get("Last Name").contains(searchTerm)) {
+//                filteredRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position");
+//            }
+        records.removeIf(map -> !map.get("First Name").contains(searchTerm) && !map.get("Last Name").contains(searchTerm));
+
         for (Map<String, String> map : records) {
-            if (map.get("First Name").contains(searchTerm) || map.get("Last Name").contains(searchTerm)) {
-                filteredRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position");
-            }
-            filteredRecords += "\n";
+            filteredRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position") + "\n";
         }
         return filteredRecords.trim();
     }
 }
-
