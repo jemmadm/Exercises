@@ -59,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-324">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="244">
+              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -280,7 +280,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556223639769" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556227276668" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -331,7 +331,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortingRecordsTest">
+  <component name="RunManager" selected="JUnit.SortingRecordsTest.sortByLastNames">
     <configuration name="NameSorterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Exercises.test" />
       <extension name="coverage">
@@ -343,22 +343,6 @@
       <option name="PACKAGE_NAME" value="exercise41" />
       <option name="MAIN_CLASS_NAME" value="exercise41.NameSorterTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NameSorterTest.orderedDimSumNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Exercises.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise41.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercise41" />
-      <option name="MAIN_CLASS_NAME" value="exercise41.NameSorterTest" />
-      <option name="METHOD_NAME" value="orderedDimSumNames" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -410,13 +394,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortingRecordsTest.sortByLastNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise39" />
+      <option name="MAIN_CLASS_NAME" value="exercise39.SortingRecordsTest" />
+      <option name="METHOD_NAME" value="sortByLastNames" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SortingRecordsTest.sortByLastNames" />
         <item itemvalue="JUnit.SortingRecordsTest" />
         <item itemvalue="JUnit.SortingRecordsTest.filterNames" />
         <item itemvalue="JUnit.NameSorterTest" />
         <item itemvalue="JUnit.NameSorterTest.orderedNames" />
-        <item itemvalue="JUnit.NameSorterTest.orderedDimSumNames" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +434,7 @@
       <workItem from="1550224410854" duration="24402000" />
       <workItem from="1554120448370" duration="16363000" />
       <workItem from="1554212212704" duration="74948000" />
-      <workItem from="1556005151817" duration="28671000" />
+      <workItem from="1556005151817" duration="31542000" />
     </task>
     <task id="LOCAL-00001" summary="add Exercises">
       <created>1554283438618</created>
@@ -667,43 +667,50 @@
       <option name="project" value="LOCAL" />
       <updated>1556129587364</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="exercise 39 - lambda added">
+      <created>1556223664831</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1556223664831</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 29m 37s.xml">
-      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 31m 04s.xml">
-      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 31m 28s.xml">
-      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 31m 52s.xml">
-      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 32m 07s.xml">
-      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 32m 27s.xml">
-      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 39m 59s.xml">
-      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 40m 34s.xml">
-      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest_filterNames - 2019.04.25 at 20h 40m 47s.xml">
-      <configuration name="SortingRecordsTest.filterNames" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortingRecordsTest - 2019.04.25 at 20h 57m 10s.xml">
+    <history-entry file="SortingRecordsTest - 2019.04.25 at 22h 08m 10s.xml">
       <configuration name="SortingRecordsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_sortByLastNames - 2019.04.25 at 22h 08m 24s.xml">
+      <configuration name="SortingRecordsTest.sortByLastNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_sortByLastNames - 2019.04.25 at 22h 08m 52s.xml">
+      <configuration name="SortingRecordsTest.sortByLastNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_sortByLastNames - 2019.04.25 at 22h 09m 18s.xml">
+      <configuration name="SortingRecordsTest.sortByLastNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_sortByLastNames - 2019.04.25 at 22h 09m 50s.xml">
+      <configuration name="SortingRecordsTest.sortByLastNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_sortByLastNames - 2019.04.25 at 22h 13m 34s.xml">
+      <configuration name="SortingRecordsTest.sortByLastNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_sortByLastNames - 2019.04.25 at 22h 19m 09s.xml">
+      <configuration name="SortingRecordsTest.sortByLastNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_sortByLastNames - 2019.04.25 at 22h 19m 43s.xml">
+      <configuration name="SortingRecordsTest.sortByLastNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_sortByLastNames - 2019.04.25 at 22h 20m 12s.xml">
+      <configuration name="SortingRecordsTest.sortByLastNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingRecordsTest_sortByLastNames - 2019.04.25 at 22h 20m 35s.xml">
+      <configuration name="SortingRecordsTest.sortByLastNames" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144454000" />
+    <option name="totallyTimeSpent" value="147325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -719,7 +726,7 @@
       <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32961586" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3293944" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.9628253" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32465923" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39653036" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -785,7 +792,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="edited folders structure" />
     <MESSAGE value="added exercise28" />
     <MESSAGE value="added Exceptions to ValidatingInputs and additional tests" />
     <MESSAGE value="added exercise32 - Guess The Number" />
@@ -810,7 +816,8 @@
     <MESSAGE value="started filter exercise, wrote filter method needs refactoring" />
     <MESSAGE value="extracted duplicate code as new method, recordsCreator. Both tests pass" />
     <MESSAGE value="exercise 41 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise 41 added" />
+    <MESSAGE value="exercise 39 - lambda added" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 39 - lambda added" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -1232,8 +1239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercise39/SortingRecords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="244">
+          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

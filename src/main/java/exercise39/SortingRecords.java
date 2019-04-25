@@ -6,7 +6,7 @@ public class SortingRecords {
 
     public Map<String, String> createRecord(String firstName, String lastName, String position, LocalDate date) {
         Map<String, String> map = createRecord(firstName, lastName, position);
-        map.put("Date", date.toString());
+        map.put("Date", " " + date);
         return map;
     }
 
@@ -15,6 +15,7 @@ public class SortingRecords {
         map.put("First Name", firstName);
         map.put("Last Name", lastName);
         map.put("Position", position);
+        map.put("Date", "");
         return map;
     }
 
@@ -41,18 +42,17 @@ public class SortingRecords {
     public String recordSorter(List<Map<String, String>> records) {
 
         String unsortedRecords = "";
-        records.sort(
-                Comparator.comparing(record -> record.get("Last Name")));
+        records.sort(Comparator.comparing(record -> record.get("Last Name")));
 
         for (Map<String, String> map : records) {
-            String date = map.get("Date");
-            unsortedRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position");
+//            String date = map.get("Date");
+            unsortedRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position") + "" + map.get("Date");
 
-            if (date != null && !date.isEmpty()) {
-                unsortedRecords += " " + date;
-            }
-            unsortedRecords += "\n";
-        }
+//            if (date != null && !date.isEmpty()) {
+//                unsortedRecords += " " + date;
+//        }
+        unsortedRecords += "\n";
+    }
         return unsortedRecords.trim();
     }
 
