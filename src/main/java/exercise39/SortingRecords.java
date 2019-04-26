@@ -6,6 +6,7 @@ public class SortingRecords {
 
     public Map<String, String> createRecord(String firstName, String lastName, String position, LocalDate date) {
         Map<String, String> map = createRecord(firstName, lastName, position);
+        //space?
         map.put("Date", " " + date);
         return map;
     }
@@ -20,6 +21,7 @@ public class SortingRecords {
     }
 
     public List<Map<String, String>> recordsCreator() {
+        //location?
         Map<String, String> johnMap = createRecord("John", "Johnson", "Manager", LocalDate.of(2016,12,31));
         Map<String, String> touMap = createRecord("Tou", "Xiong", "Software Engineer", LocalDate.of(2016,10,5));
         Map<String, String> michaelaMap = createRecord("Michaela", "Michaelson", "District Manager", LocalDate.of(2015,12,19));
@@ -45,27 +47,20 @@ public class SortingRecords {
         records.sort(Comparator.comparing(record -> record.get("Last Name")));
 
         for (Map<String, String> map : records) {
-//            String date = map.get("Date");
             unsortedRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position") + "" + map.get("Date");
-
-//            if (date != null && !date.isEmpty()) {
-//                unsortedRecords += " " + date;
-//        }
-        unsortedRecords += "\n";
-    }
+            unsortedRecords += "\n";
+        }
         return unsortedRecords.trim();
     }
 
     public String recordFilter(String searchTerm, List<Map<String, String>> records) {
 
         String filteredRecords = "";
-//        for (Map<String, String> map : records) {
-//            if (map.get("First Name").contains(searchTerm) || map.get("Last Name").contains(searchTerm)) {
-//                filteredRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position");
-//            }
+
         records.removeIf(map -> !map.get("First Name").contains(searchTerm) && !map.get("Last Name").contains(searchTerm));
 
         for (Map<String, String> map : records) {
+            //repetition still - and no date?
             filteredRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position") + "\n";
         }
         return filteredRecords.trim();
