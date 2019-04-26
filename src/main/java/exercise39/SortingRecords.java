@@ -45,24 +45,16 @@ public class SortingRecords {
         records.sort(Comparator.comparing(record -> record.get("Last Name")));
 
         for (Map<String, String> map : records) {
-//            String date = map.get("Date");
             unsortedRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position") + "" + map.get("Date");
-
-//            if (date != null && !date.isEmpty()) {
-//                unsortedRecords += " " + date;
-//        }
-        unsortedRecords += "\n";
-    }
+            unsortedRecords += "\n";
+        }
         return unsortedRecords.trim();
     }
 
     public String recordFilter(String searchTerm, List<Map<String, String>> records) {
 
         String filteredRecords = "";
-//        for (Map<String, String> map : records) {
-//            if (map.get("First Name").contains(searchTerm) || map.get("Last Name").contains(searchTerm)) {
-//                filteredRecords += map.get("First Name") + " " + map.get("Last Name") + " " + map.get("Position");
-//            }
+
         records.removeIf(map -> !map.get("First Name").contains(searchTerm) && !map.get("Last Name").contains(searchTerm));
 
         for (Map<String, String> map : records) {
